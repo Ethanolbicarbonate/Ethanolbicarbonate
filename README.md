@@ -11,7 +11,12 @@ Wanted to be an architect but here I am taking my bachelor's degree in computer 
 
 - 📫 How to reach me **ethanjed.c@gmail.com**
 
-- I love doing **Animations**
+<h3 align="center">I love doing animations</h3>
+<div align="center">
+  <img src="Caleb_Heart+nobg.gif" alt="GIF 1" width="300" />
+  <img src="caleb_distressed+nobg.gif" alt="GIF 2" width="300" />
+  <img src="caleb_kapoy+nobg.gif" alt="GIF 3" width="300" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
