@@ -31,4 +31,12 @@ Wanted to be an architect but here I am taking my bachelor's degree in computer 
 <h3 align="left">Currently learning:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<h3 align="center">Get To Know Me</h3>
+<p align="center"> <a href="https://main--ethan-introduction.netlify.app/" target="_blank" rel="noreferrer"> <img src="Profile.jpg" alt="profile" width="80" height="80"/> </a> </p>
+<p align="center">
+  Above is my poorly made, spaghetti coded, self introduction website
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
