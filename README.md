@@ -39,7 +39,7 @@ Wanted to be an architect but here I am taking my bachelor's degree in computer 
 <h3 align="center">Get To Know Me</h3>
 <p align="center"> <a href="https://main--ethan-introduction.netlify.app/" target="_blank" rel="noreferrer"> <img src="Profile.jpg" alt="profile" width="80" height="80"/> </a> </p>
 <p align="center">
-  Above is my poorly made, spaghetti coded, self introduction website
+  Above is my poorly made, spaghetti coded,non responsive self introduction website
 </p>
 
 <p align="center">
