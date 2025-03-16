@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&color=29D456&vCenter=true&random=false&width=900&height=80&lines=Hi%2C+im+Ethan;A+beginner%2C+still+learning;ughhhhhhhhh...)](https://git.io/typing-svg)
 
-Wanted to be an architect but here I am taking my bachelor's degree in computer science
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanolbicarbonate&label=Profile%20views&color=grey&style=flat" alt="ethanolbicarbonate" /> </p>
 
 ---
