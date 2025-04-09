@@ -9,14 +9,11 @@
 
 - 👨‍💻 Check my art on [instagram.com/ethanjedii](https://instagram.com/ethanjedii)
 
-- 📫 How to reach me **ethanjed.c@gmail.com**
 ---
-
-<h3 align="center">I love doing animations</h3>
 <div align="center">
-  <img src="Caleb_Heart+nobg.gif" alt="GIF 1" width="300" />
-  <img src="caleb_distressed+nobg.gif" alt="GIF 2" width="300" />
-  <img src="caleb_kapoy+nobg.gif" alt="GIF 3" width="300" />
+  <img src="Caleb_Heart+nobg.gif" alt="GIF 1" width="100" />
+  <img src="caleb_distressed+nobg.gif" alt="GIF 2" width="100" />
+  <img src="caleb_kapoy+nobg.gif" alt="GIF 3" width="100" />
 </div>
 
 ---
